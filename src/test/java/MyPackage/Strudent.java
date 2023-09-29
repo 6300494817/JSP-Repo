@@ -2,6 +2,9 @@ package MyPackage;
 
 public class Strudent
 {
+	//bug 1; 
+	int i=20;
+	
   int roll=30;
   String name="Teja";
   
@@ -13,5 +16,6 @@ public int getRoll() {
 }
 public String getName() {
 	return name;
+	
 }
 }
